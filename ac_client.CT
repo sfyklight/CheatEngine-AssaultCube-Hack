@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description Activated="1">"pointerscan result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+0010A280</Address>
+      <Offsets>
+        <Offset>4E0</Offset>
+        <Offset>DC</Offset>
+        <Offset>70</Offset>
+        <Offset>14C</Offset>
+        <Offset>37C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description Activated="1">"pointerscan result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+0010A280</Address>
+      <Offsets>
+        <Offset>488</Offset>
+        <Offset>DC</Offset>
+        <Offset>70</Offset>
+        <Offset>A4</Offset>
+        <Offset>5F4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description Activated="1">"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00C317CC</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
