@@ -5,4 +5,4 @@ Sizlere kalıcı adreslere sahip bir dosya veriyorum
 Nasıl Aktif Ederim?
 -----------------
 
-"Active" seçeneğini işaretleyin ( bunu her adres için yapın ) 
+"Active" seçeneğini işaretleyin ( bunu bütün adresler için yapın )
